@@ -11977,6 +11977,7 @@ pre .code {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
+  text-align: center;
   min-height: 70px;
   border-top: 1px solid #dee2e6;
   -webkit-box-align: center;
