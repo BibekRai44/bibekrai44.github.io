@@ -11191,6 +11191,8 @@ p {
   display: block;
   position: relative;
   overflow: hidden;
+  height: 200px;
+  width: 200x;
 }
 
 .portfolio-card .portfolio-card-img {
